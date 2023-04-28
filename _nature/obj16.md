@@ -12,7 +12,7 @@ comment: Out of a variety of green spaces available for students on IU campus, D
 order: '15'
 layout: nature_item
 collection: nature
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/obj16/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj16/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj16/manifest.json"
 ---
