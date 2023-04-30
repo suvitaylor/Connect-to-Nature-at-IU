@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /exhibits/
-title: Featured Exhibits
+title: Exhibit A: Campus Life as a Student (Springtime edition)
 ---
 
 {% assign exhibits = site.exhibits | where: 'layout','exhibit' %}
