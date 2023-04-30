@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /exhibits/
+permalink: /exhibits/a
 title: Exhibit A: Campus Life as a Student (Springtime edition)
 ---
 
