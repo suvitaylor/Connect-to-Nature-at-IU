@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /exhibits/a
-title: Exhibit A: Campus Life as a Student (Springtime edition)
+permalink: /exhibits/
+title: Featured Exhibits
 ---
 
 {% assign exhibits = site.exhibits | where: 'layout','exhibit' %}
