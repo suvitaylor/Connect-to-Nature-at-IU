@@ -114,7 +114,7 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Exhibit a'
+      - label: 'Exhibit A: Campus Life as a Student (Springtime edition)'
         link: '/exhibits/a/'
       - label: 'Exhibit b'
         link: '/exhibits/b/'
