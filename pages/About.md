@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About this project
+title: The Human-Nature Connection
 permalink: /about/
 ---
-Put your paragraphs here.
+In an age in which people are constantly surrounded by technology, spending time outside is lower on the list of priorities for most people. According to the American Psychological Association, time spent in nature and the outdoors has beneficial cognitive and psychological effects, even if it is for a brief period of time. There can be a reduction in stress levels, anxiety, and depression when people spend time outside. At Indiana University, the most common areas of nature are walking in the woods, going to Griffy Lake, viewing the flower gardens at Sample Gates, and more, but there are even smaller instances that leave the same positive impact. 
+The students and faculty that frequent campus have access to incredible aspects of nature, but it may be unbeknownst to them. It was for that reason that I wanted to create an exhibition highlighting the small pieces of nature that are on Indiana University’s campus. College students have an extreme amount of pressure and stressors constantly in their life which can cause issues with mental health and connectedness to people and life around them. While this is the case,  people do not need to carve out large chunks of their day in order to feel connected to nature. I chose photos of nature that I was exposed to on my way to class, while going on a morning walk, or even places I was shown due to classes offered at IU. 
+Overall, I hope college students who are struggling with mental health are able to see that there are little daily things that can be done to feel more calm and grounded. 
